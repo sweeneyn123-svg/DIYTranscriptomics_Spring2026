@@ -1,0 +1,14 @@
+{
+	"n_targets": 328868,
+	"n_bootstraps": 0,
+	"n_processed": 64436537,
+	"n_pseudoaligned": 34028363,
+	"n_unique": 5171233,
+	"p_pseudoaligned": 52.8,
+	"p_unique": 8.0,
+	"kallisto_version": "0.51.1",
+	"index_version": 13,
+	"k-mer length": 31,
+	"start_time": "Sat Dec 27 01:00:12 2025",
+	"call": "kallisto quant -i Homo_sapiens.GRCh38.cDNA.all.index -o CL10 -t 8 --single -l 250 -s 30 CL10.fastq.gz"
+}

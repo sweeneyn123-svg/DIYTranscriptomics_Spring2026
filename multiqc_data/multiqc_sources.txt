@@ -1,0 +1,21 @@
+Module	Section	Sample Name	Source
+Kallisto	all_sections	kallisto | CL08	/Users/sweeney1/Desktop/DIYTranscriptomics/course_dataset/kallisto/CL08.log
+Kallisto	all_sections	kallisto | CL10	/Users/sweeney1/Desktop/DIYTranscriptomics/course_dataset/kallisto/CL10.log
+Kallisto	all_sections	kallisto | CL11	/Users/sweeney1/Desktop/DIYTranscriptomics/course_dataset/kallisto/CL11.log
+Kallisto	all_sections	kallisto | CL12	/Users/sweeney1/Desktop/DIYTranscriptomics/course_dataset/kallisto/CL12.log
+Kallisto	all_sections	kallisto | CL13	/Users/sweeney1/Desktop/DIYTranscriptomics/course_dataset/kallisto/CL13.log
+Kallisto	all_sections	kallisto | HS01	/Users/sweeney1/Desktop/DIYTranscriptomics/course_dataset/kallisto/HS01.log
+Kallisto	all_sections	kallisto | HS02	/Users/sweeney1/Desktop/DIYTranscriptomics/course_dataset/kallisto/HS02.log
+Kallisto	all_sections	kallisto | HS03	/Users/sweeney1/Desktop/DIYTranscriptomics/course_dataset/kallisto/HS03.log
+Kallisto	all_sections	kallisto | HS04	/Users/sweeney1/Desktop/DIYTranscriptomics/course_dataset/kallisto/HS04.log
+Kallisto	all_sections	kallisto | HS05	/Users/sweeney1/Desktop/DIYTranscriptomics/course_dataset/kallisto/HS05.log
+FastQC	all_sections	fastqc | CL08	/Users/sweeney1/Desktop/DIYTranscriptomics/course_dataset/fastqc/CL08_fastqc.zip
+FastQC	all_sections	fastqc | CL10	/Users/sweeney1/Desktop/DIYTranscriptomics/course_dataset/fastqc/CL10_fastqc.zip
+FastQC	all_sections	fastqc | CL11	/Users/sweeney1/Desktop/DIYTranscriptomics/course_dataset/fastqc/CL11_fastqc.zip
+FastQC	all_sections	fastqc | CL12	/Users/sweeney1/Desktop/DIYTranscriptomics/course_dataset/fastqc/CL12_fastqc.zip
+FastQC	all_sections	fastqc | CL13	/Users/sweeney1/Desktop/DIYTranscriptomics/course_dataset/fastqc/CL13_fastqc.zip
+FastQC	all_sections	fastqc | HS01	/Users/sweeney1/Desktop/DIYTranscriptomics/course_dataset/fastqc/HS01_fastqc.zip
+FastQC	all_sections	fastqc | HS02	/Users/sweeney1/Desktop/DIYTranscriptomics/course_dataset/fastqc/HS02_fastqc.zip
+FastQC	all_sections	fastqc | HS03	/Users/sweeney1/Desktop/DIYTranscriptomics/course_dataset/fastqc/HS03_fastqc.zip
+FastQC	all_sections	fastqc | HS04	/Users/sweeney1/Desktop/DIYTranscriptomics/course_dataset/fastqc/HS04_fastqc.zip
+FastQC	all_sections	fastqc | HS05	/Users/sweeney1/Desktop/DIYTranscriptomics/course_dataset/fastqc/HS05_fastqc.zip

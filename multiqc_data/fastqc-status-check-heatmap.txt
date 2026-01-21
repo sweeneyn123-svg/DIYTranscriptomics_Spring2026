@@ -1,0 +1,11 @@
+.	Basic Statistics	Per Base Sequence Quality	Per Sequence Quality Scores	Per Base Sequence Content	Per Sequence GC Content	Per Base N Content	Sequence Length Distribution	Sequence Duplication Levels	Overrepresented Sequences	Adapter Content
+fastqc | CL08	1	1	1	0.25	0.25	1	0.5	0.25	0.5	1
+fastqc | CL10	1	1	1	0.25	0.25	1	0.5	0.25	0.5	1
+fastqc | CL11	1	1	1	0.25	0.25	1	0.5	0.25	0.5	1
+fastqc | CL12	1	1	1	0.25	0.25	1	0.5	0.25	0.5	1
+fastqc | CL13	1	1	1	0.25	0.25	1	0.5	0.25	0.5	1
+fastqc | HS01	1	1	1	0.25	0.25	1	0.5	0.25	0.5	1
+fastqc | HS02	1	1	1	0.25	0.5	1	0.5	0.25	0.5	1
+fastqc | HS03	1	1	1	0.25	0.5	1	0.5	0.25	0.5	1
+fastqc | HS04	1	1	1	0.25	0.5	1	0.5	0.5	0.5	1
+fastqc | HS05	1	1	1	0.25	0.25	1	0.5	0.25	0.25	0.5
